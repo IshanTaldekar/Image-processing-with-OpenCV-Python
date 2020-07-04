@@ -1,2 +1,2 @@
 # Exploring OpenCV Python
-Some basic improcessing for fun.
+Some basic image processing for fun.
