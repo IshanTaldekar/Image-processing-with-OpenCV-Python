@@ -1,1 +1,2 @@
-# some-fun-stuff-opencvpy
+# Exploring OpenCV Python
+Some basic improcessing for fun.
